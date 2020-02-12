@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574262349 source:c:\users\dell\desktop\vdit\attendance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
